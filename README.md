@@ -1,4 +1,4 @@
-#**PostNest - Your Gateway to Sharing, Connecting, and Exploring Ideas.**#
+# **PostNest - Your Gateway to Sharing, Connecting, and Exploring Ideas.**
 
 PostNest is a feature-rich social media platform designed for sharing ideas, connecting with friends, and exploring posts. Built with Flask, SQLAlchemy, and AWS S3, PostNest provides a seamless user experience with functionalities like post creation, likes, comments, and friend requests. The platform is deployed on Render for reliable and scalable hosting.
 
